@@ -1,0 +1,10 @@
+{
+  "name": "PixelForge",
+  "description": "Premium mobile photo editing experience with advanced adjustments, simulated AI tools, and professional filters.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
